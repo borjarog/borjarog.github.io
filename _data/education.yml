@@ -1,20 +1,27 @@
-# Degree
-- degree: "Grado en Ciencia de Datos"
-  uni: "Universitat Politècnica de València (UPV)"
-  year: "Sep 2022 — Jun 2026"
-  awards: []
-  summary: "Estudiante de último curso en Ciencia de Datos, con interés en análisis de datos, machine learning y visualización de datos."
+# Education
+- degree: Data Science
+  uni: Universitat Politècnica de València (UPV)
+  year: Sep 2022 &mdash; Jun 2026
+  summary: >
+    Grado en Ciencia de Datos en la UPV, centrado en el análisis de datos, estadística, machine learning y visualización.
+    Formación integral en técnicas y herramientas para el procesamiento y análisis de grandes volúmenes de datos.
 
-# Cursos
-- degree: "Data Engineering"
-  uni: "DeepLearning.AI"
-  year: "Agosto 2025"
-  awards: []
-  summary: "Curso de Data Engineering impartido por DeepLearning.AI. Credential ID: R3JDXNMQY2IQ"
+- degree: Data Engineering Professional Certificate
+  uni: DeepLearning.AI
+  year: Aug 2025
+  credential_id: R3JDXNMQY2IQ
+  url: https://www.coursera.org/professional-certificates/data-engineering
+  summary: >
+    Certificado profesional que cubre el ciclo de vida de la ingeniería de datos: generación, ingestión, almacenamiento, transformación y entrega de datos.
+    Incluye prácticas con AWS y herramientas de código abierto como Apache Spark y PySpark.
 
-- degree: "Machine Learning Specialization"
-  uni: "DeepLearning.AI"
-  year: "Agosto 2024"
-  awards: []
-  summary: "Especialización en Machine Learning impartida por DeepLearning.AI. Credential ID: FO4J4SJFBIDO"
+- degree: Machine Learning Specialization
+  uni: DeepLearning.AI
+  year: Aug 2024
+  credential_id: FO4J4SJFBIDO
+  url: https://www.coursera.org/specializations/machine-learning-introduction
+  summary: >
+    Especialización que abarca aprendizaje supervisado y no supervisado, redes neuronales, árboles de decisión y técnicas de reducción de dimensionalidad.
+    Incluye prácticas con Python, NumPy y scikit-learn, enfocadas en aplicaciones reales de machine learning.
+
 
