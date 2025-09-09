@@ -1,14 +1,13 @@
 # Education
-- degree: Data Science
+- degree: Grado en Ciencia de Datos
   uni: Universitat Politècnica de València (UPV)
-  year: Sep 2022 &mdash; Jun 2026
+  year: Septiembre 2022 &mdash; Junio 2026
   summary: >
-    Grado en Ciencia de Datos en la UPV, centrado en el análisis de datos, estadística, machine learning y visualización.
-    Formación integral en técnicas y herramientas para el procesamiento y análisis de grandes volúmenes de datos.
+    Grado en Ciencia de Datos enfocado en la obtención, procesamiento y análisis de datos de distintas fuentes. Formación en estadística, programación en Python, machine learning, visualización de datos y comunicación de resultados para la toma de decisiones basada en datos.
 
 - degree: Data Engineering Professional Certificate
   uni: DeepLearning.AI
-  year: Aug 2025
+  year: Agosto 2025
   credential_id: R3JDXNMQY2IQ
   url: https://www.coursera.org/professional-certificates/data-engineering
   summary: >
@@ -17,7 +16,7 @@
 
 - degree: Machine Learning Specialization
   uni: DeepLearning.AI
-  year: Aug 2024
+  year: Agosto 2024
   credential_id: FO4J4SJFBIDO
   url: https://www.coursera.org/specializations/machine-learning-introduction
   summary: >
