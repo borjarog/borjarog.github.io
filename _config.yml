@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "ture"
 resume_name:                    "Borja Rodrigo Garrido"
 resume_title:                   "Científico de Datos | Estudiante de Ciencia de Datos en la UPV"
 
