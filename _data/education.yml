@@ -1,13 +1,20 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: "Grado en Ciencia de Datos"
+  uni: "Universitat Politècnica de València (UPV)"
+  year: "Sep 2022 — Jun 2026"
+  awards: []
+  summary: "Estudiante de último curso en Ciencia de Datos, con interés en análisis de datos, machine learning y visualización de datos."
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+# Cursos
+- degree: "Data Engineering"
+  uni: "DeepLearning.AI"
+  year: "Agosto 2025"
+  awards: []
+  summary: "Curso de Data Engineering impartido por DeepLearning.AI. Credential ID: R3JDXNMQY2IQ"
+
+- degree: "Machine Learning Specialization"
+  uni: "DeepLearning.AI"
+  year: "Agosto 2024"
+  awards: []
+  summary: "Especialización en Machine Learning impartida por DeepLearning.AI. Credential ID: FO4J4SJFBIDO"
+
