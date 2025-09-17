@@ -8,3 +8,11 @@
   duration: "2025"
   description: "Comprehensive analysis of the real estate market in Valencia using clustering and data visualization. Includes an interactive dashboard built with Dash to explore property distributions, market trends, and clusters."
   image: "/images/projects/valencia-housing.jpg"
+
+# Web Portfolio Project
+- project: "Web Portfolio"
+  url: "https://borjarog.github.io"
+  role: "Frontend & Jekyll Portfolio"
+  duration: "2025"
+  description: "Personal portfolio showcasing my projects, skills, and experience. Built with Jekyll, HTML, CSS, and Markdown."
+  image: "/images/projects/web-portfolio.jpeg"
