@@ -1,0 +1,9 @@
+.project-image {
+  width: 100%;
+  max-width: 400px;      // tamaño máximo uniforme
+  height: auto;           // mantiene proporciones
+  border-radius: 12px;    // esquinas redondeadas
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); // sombra opcional
+  display: block;
+  margin: 10px 0;
+}
