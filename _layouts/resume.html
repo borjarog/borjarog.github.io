@@ -128,8 +128,9 @@
           <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
           {% if project.image %}
-            <img src="{{ project.image }}" alt="{{ project.project }} screenshot" class="project-image" itemprop="image" width="600"/>
+            <img src="{{ project.image }}" alt="{{ project.project }} screenshot" class="project-image" itemprop="image"/>
           {% endif %}
+
         </div>
         {% endfor %}
 
