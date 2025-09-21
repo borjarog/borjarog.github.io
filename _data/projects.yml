@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Valencia Housing Clustering Analysis
-- project: "Valencia Housing Clustering Analysis"
-  url: "https://github.com/borjarog/valencia-housing-clustering"  # enlace al repo
-  role: "Data Analysis & Web Dashboard"
+- project: "Valencia Housing Market Visualization"
+  url: "https://github.com/borjarog/valencia-housing-visualization"  # enlace al repo
+  role: "Data Analysis & Visualization"
   duration: "2025"
-  description: "Comprehensive analysis of the real estate market in Valencia using clustering and data visualization. Includes an interactive dashboard built with Dash to explore property distributions, market trends, and clusters."
+  description: "Comprehensive analysis of the real estate market in Valencia using clustering techniques and data visualization. The project includes an interactive Tableau dashboard to explore property distributions, pricing patterns, quality, and neighborhood clusters."
   image: "/images/projects/valencia-housing.jpg"
 
 # Web Portfolio Project
