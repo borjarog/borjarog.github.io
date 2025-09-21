@@ -5,7 +5,7 @@
 - project: "Valencia Housing Market Visualization"
   url: "https://github.com/borjarog/valencia-housing-visualization"
   role: "Data Analysis & Visualization"
-  duration: "2025"
+  duration: "2024"
   description: "Exploratory Data Analysis (EDA) of the Valencia real estate market using Python, complemented with an interactive Tableau dashboard to visualize property distributions, pricing patterns, quality, and neighborhood comparisons."
   image: "/images/projects/valencia-housing.jpg"
 
