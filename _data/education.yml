@@ -1,27 +1,28 @@
 # Education
-- degree: Grado en Ciencia de Datos
+- degree: Bachelor's Degree in Data Science
   uni: Universitat Politècnica de València (UPV)
-  year: Septiembre 2022 &mdash; Junio 2026
+  year: September 2022 &mdash; June 2026
   summary: >
-    Grado en Ciencia de Datos enfocado en la obtención, procesamiento y análisis de datos de distintas fuentes. Formación en estadística, programación en Python, machine learning, visualización de datos y comunicación de resultados para la toma de decisiones basada en datos.
+    Bachelor's in Data Science focused on acquiring, processing, and analyzing data from different sources. Training in statistics, Python programming, machine learning, data visualization, and communication of results to support data-driven decision making.
   url: https://www.upv.es/titulaciones/GCD/index-es.html
   
 - degree: Data Engineering Professional Certificate
   uni: DeepLearning.AI
-  year: Agosto 2025
+  year: August 2025
   credential_id: R3JDXNMQY2IQ
   url: https://www.coursera.org/professional-certificates/data-engineering
   summary: >
-    Certificado profesional que cubre el ciclo de vida de la ingeniería de datos: generación, ingestión, almacenamiento, transformación y entrega de datos.
-    Incluye prácticas con AWS y herramientas de código abierto como Apache Spark y PySpark.
+    Professional certificate covering the data engineering lifecycle: data generation, ingestion, storage, transformation, and delivery.
+    Includes hands-on practice with AWS and open-source tools such as Apache Spark and PySpark.
 
 - degree: Machine Learning Specialization
   uni: DeepLearning.AI
-  year: Agosto 2024
+  year: August 2024
   credential_id: FO4J4SJFBIDO
   url: https://www.coursera.org/specializations/machine-learning-introduction
   summary: >
-    Especialización que abarca aprendizaje supervisado y no supervisado, redes neuronales, árboles de decisión y técnicas de reducción de dimensionalidad.
-    Incluye prácticas con Python, NumPy y scikit-learn, enfocadas en aplicaciones reales de machine learning.
+    Specialization covering supervised and unsupervised learning, neural networks, decision trees, and dimensionality reduction techniques.
+    Includes hands-on practice with Python, NumPy, and scikit-learn, focused on real-world machine learning applications.
+
 
 
