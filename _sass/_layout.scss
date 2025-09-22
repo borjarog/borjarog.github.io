@@ -110,3 +110,10 @@
   text-align: justify;
 }
 
+.page-header {
+  text-align: center;
+}
+
+.page-header .icon-links {
+  display: inline-block; /* Para que se centre como bloque dentro del texto */
+}
