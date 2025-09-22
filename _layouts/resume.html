@@ -140,18 +140,18 @@
           <h4 class="resume-item-details" itemprop="description">&bull; {{ project.role }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
 
-          {% if project.skills %}
+
+          {% if project.image %}
+            <img src="{{ project.image }}" alt="{{ project.project }} screenshot" class="project-image" itemprop="image"/>
+          {% endif %}
+        </div>
+        {% if project.skills %}
             <div class="project-skills">
               {% for skill in project.skills %}
                 <span class="skill">{{ skill }}</span>
               {% endfor %}
             </div>
           {% endif %}
-
-          {% if project.image %}
-            <img src="{{ project.image }}" alt="{{ project.project }} screenshot" class="project-image" itemprop="image"/>
-          {% endif %}
-        </div>
         {% endfor %}
 
       </section>
