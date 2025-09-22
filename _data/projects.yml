@@ -5,14 +5,12 @@
 - project: "Valencia Housing Market Visualization"
   url: "https://github.com/borjarog/valencia-housing-visualization"
   role: "Data Analysis & Visualization"
-  duration: "2024"
   description: "Exploratory Data Analysis (EDA) of the Valencia real estate market using Python, complemented with an interactive Tableau dashboard to visualize property distributions, pricing patterns, quality, and neighborhood comparisons."
   image: "/images/projects/valencia-housing.jpg"
 
-# Web Portfolio Project
-- project: "Web Portfolio"
-  url: "https://borjarog.github.io"
-  role: "Frontend & Jekyll Portfolio"
-  duration: "2025"
-  description: "Personal portfolio showcasing my projects, skills, and experience. Built with Jekyll, HTML, CSS, and Markdown."
-  image: "/images/projects/web-portfolio.jpeg"
+# Tennis Performance Analysis
+- project: "Game, Set & Data - Tennis Performance Analysis"
+  url: "https://github.com/borjarog/game-set-data"
+  role: "Data Integration & Exploratory Analysis"
+  description: "Analysis of ATP matches (2000–2023) using Principal Component Analysis (PCA) and clustering to identify playing styles and performance patterns across surfaces. Developed interactive dashboards with Shiny for visualization."
+  image: "/images/projects/tennis-analysis.webp"
