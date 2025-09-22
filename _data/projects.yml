@@ -7,6 +7,10 @@
   role: "Data Analysis & Visualization"
   description: "Exploratory Data Analysis (EDA) of the Valencia real estate market using Python, complemented with an interactive Tableau dashboard to visualize property distributions, pricing patterns, quality, and neighborhood comparisons."
   image: "/images/projects/valencia-housing.jpg"
+  skills:
+    - Python
+    - Tableau
+    - R
 
 # Tennis Performance Analysis
 - project: "Game, Set & Data - Tennis Performance Analysis"
@@ -14,3 +18,8 @@
   role: "Data Integration & Exploratory Analysis"
   description: "Analysis of ATP matches (2000–2023) using Principal Component Analysis (PCA) and clustering to identify playing styles and performance patterns across surfaces. Developed interactive dashboards with Shiny for visualization."
   image: "/images/projects/tennis-analysis.png"
+  skills:
+    - R
+    - Shiny
+    - PCA
+    - Clustering
