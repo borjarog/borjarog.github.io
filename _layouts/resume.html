@@ -130,19 +130,34 @@
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+          <h3 class="resume-item-title" itemprop="name">
+            {% if project.url %}
+              <a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>
+            {% else %}
+              {{ project.project }}
+            {% endif %}
+          </h3>
           <h4 class="resume-item-details" itemprop="description">&bull; {{ project.role }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
+
+          {% if project.skills %}
+            <div class="project-skills">
+              {% for skill in project.skills %}
+                <span class="skill">{{ skill }}</span>
+              {% endfor %}
+            </div>
+          {% endif %}
+
           {% if project.image %}
             <img src="{{ project.image }}" alt="{{ project.project }} screenshot" class="project-image" itemprop="image"/>
           {% endif %}
-
         </div>
         {% endfor %}
 
       </section>
       <!-- end Projects -->
       {% endif %}
+
 
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
