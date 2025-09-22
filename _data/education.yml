@@ -10,6 +10,7 @@
 - degree: Data Engineering Professional Certificate
   uni: DeepLearning.AI
   year: August 2025
+  logo: "/images/logos/deepl.jpg"
   credential_id: R3JDXNMQY2IQ
   url: https://www.coursera.org/professional-certificates/data-engineering
   summary: >
@@ -19,6 +20,7 @@
 - degree: Machine Learning Specialization
   uni: DeepLearning.AI
   year: August 2024
+  logo: "/images/logos/deepl.jpg"
   credential_id: FO4J4SJFBIDO
   url: https://www.coursera.org/specializations/machine-learning-introduction
   summary: >
