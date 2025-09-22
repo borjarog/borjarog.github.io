@@ -5,5 +5,10 @@
 
 - language: "Valencià"
   level: "C1"
-  institution: " Junta Qualificadora de Coneixements de Valencià (JQCV)"
+  institution: "Junta Qualificadora de Coneixements de Valencià (JQCV)"
   year: "October 2024"
+
+- language: "Spanish"
+  level: "Native"
+  institution: "—"
+  year: "—"
