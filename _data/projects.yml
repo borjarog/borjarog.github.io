@@ -13,4 +13,4 @@
   url: "https://github.com/borjarog/game-set-data"
   role: "Data Integration & Exploratory Analysis"
   description: "Analysis of ATP matches (2000–2023) using Principal Component Analysis (PCA) and clustering to identify playing styles and performance patterns across surfaces. Developed interactive dashboards with Shiny for visualization."
-  image: "/images/projects/tennis-analysis.webp"
+  image: "/images/projects/tennis-analysis.png"
