@@ -4,11 +4,11 @@
 // Layout from Primer (https://github.com/primer/primer/blob/master/scss/_layout.scss)
 
 // Fixed-width, centered column for site content.
-.container {
-  width: $container-width;
-  margin-right: auto;
-  margin-left: auto;
-  @include clearfix;
+.container,
+.wrapper {
+  max-width: 1200px;   // o 100% si quieres que ocupe todo
+  width: 100%;
+  margin: 0 auto;
 }
 
 // Grid system
@@ -30,13 +30,9 @@
 }
 
 // Column widths
-.one-third {
-  width: 33.333333%;
-}
+.one-third { width: 33.3333%; }
+.two-thirds { width: 66.6666%; }
 
-.two-thirds {
-  width: 66.666667%;
-}
 
 .one-fourth {
   width: 25%;
