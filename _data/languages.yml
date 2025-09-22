@@ -2,17 +2,17 @@
   level: "C1 Advanced"
   institution: "Cambridge English"
   year: "June 2022"
-  flag: "images/flags/gb.png"
+  flag: "images/languages/gb.png"
 
 - language: "Valencià"
   level: "C1"
   institution: "Junta Qualificadora de Coneixements de Valencià (JQCV)"
   year: "October 2024"
-  flag: "images/flags/vlc.png"
+  flag: "images/languages/vlc.png"
 
 - language: "Spanish"
   level: "Native"
   institution: "—"
   year: "—"
-  flag: "images/flags/sp.png"
+  flag: "images/languages/sp.png"
 
