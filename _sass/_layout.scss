@@ -106,14 +106,23 @@
   text-align: center;
 }
 
-.resume-header-intro {
-  text-align: justify;
+.icon-links-center {
+  display: flex;
+  justify-content: center; /* centra horizontalmente */
+  margin-top: 0.5em;
 }
 
-.page-header {
-  text-align: center;
+.icon-links-center ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;      /* iconos en fila */
+  gap: 8px;           /* espacio entre iconos */
 }
 
-.page-header .icon-links {
-  display: inline-block; /* Para que se centre como bloque dentro del texto */
+.icon-links-center li {
+  display: flex;
 }
+
+
+
