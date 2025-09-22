@@ -13,7 +13,7 @@
     - Power BI
     - Tableau
 
-# Machine Learning
+# Technical Skills
 - skill: Tech Stack
   badges:
     - scikit-learn
@@ -24,4 +24,9 @@
     - Jupyter
     - VS Code
 
-
+- skill: Soft Skills
+  badges:
+    - Teamwork
+    - Communication
+    - Critical Thinking
+    - Adaptability
