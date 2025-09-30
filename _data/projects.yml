@@ -26,7 +26,7 @@
 
 # Tennis Performance Analysis
 - project: "Catch 'Em All with Data - Pokémon Stats Analysis"
-  url: "https://github.com/borjarog/poke-ml"
+  url: "https://github.com/borjarog/catch-em-all-data"
   role: "Exploratory Analysis & Machine Learning"
   image: "/images/projects/poke-ml.jpg"
   description: "Exploration of Pokémon generations (Gen I–IX) with statistical analysis, PCA, clustering (KMeans & DBSCAN), and predictive modeling (XGBoost). Identified generational differences in stats, cluster profiles, and predictors of legendary status and capture rates."
