@@ -29,11 +29,13 @@
   url: "https://github.com/borjarog/catch-em-all-data"
   role: "Exploratory Analysis & Machine Learning"
   image: "/images/projects/poke-ml.jpg"
-  description: "Exploration of Pokémon generations (Gen I–IX) with statistical analysis, PCA, clustering (KMeans & DBSCAN), and predictive modeling (XGBoost). Identified generational differences in stats, cluster profiles, and predictors of legendary status and capture rates."
+  description: "Exploration of Pokémon generations (Gen I–IX) with statistical analysis, PCA, clustering (KMeans & DBSCAN), and predictive modeling (XGBoost). Identified generational differences in stats, cluster profiles, and predictors of legendary status."
   skills:
     - Python
-    - xGBoost
-    - PCA
+    - Scikit-learn
+    - XGBoost
+    - Random Forest
+    - Logistic Regression
     - Clustering
-    - Streamlit
-    - Statistical Analysis
+    - SHAP (Model Interpretability)
+    - Exploratory Data Analysis & Statistical Testing
