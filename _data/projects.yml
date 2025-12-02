@@ -38,3 +38,16 @@
     - Logistic Regression
     - Clustering
     - SHAP (Model Interpretability)
+
+- project: "Biodiversity Conservation Optimization – Menorca"
+  url: "https://github.com/borjarog/biodiversity-conservation-menorca"
+  role: "Optimization Modeling & Geospatial Analysis"
+  description: "Design and implementation of a multi-species conservation planning model for Menorca, combining georeferenced Dijkstra preprocessing with a Mixed-Integer Optimization framework. Built a scalable pipeline to select optimal habitat cells and ecological corridors under budget constraints, benchmarked multiple solvers (HiGHS, SCIP, CBC, CP-SAT), and produced spatial visualizations of the final conservation network."
+  image: "/images/projects/menorca-biodiversity.jpg"
+  skills:
+    - Python
+    - Optimization (MIP/CP-SAT)
+    - Network Analysis
+    - GeoPandas
+    - OR-Tools
+    - HiGHS Solver
