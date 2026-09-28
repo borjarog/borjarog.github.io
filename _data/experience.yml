@@ -1,19 +1,20 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Experience
+- company: Minsait (Indra)
+  position: Data & BI Analyst Intern
+  duration: Apr. 2026 &mdash; Jul. 2026
+  location: Valencia, Spain
+  logo: "/images/logos/minsait-logo.png"
+  bullets:
+    - title: Data Engineering
+      text: Developed robust ETL pipelines using Pentaho to extract, clean, and structure raw data from public sector legacy systems into the Data Warehouse.
+    - title: Business Intelligence
+      text: Designed interactive dashboards and visual reports using IBM Cognos Analytics to translate complex metrics into actionable insights for Public Administration clients.
+    - title: Data Science & Machine Learning
+      text: Developed an end-to-end ML pipeline in Python (pandas, LightGBM, scikit-learn) to predict labor market participation and underemployment using EPA data. Handled imbalanced classification via PR-AUC optimization and implemented global/local interpretability with SHAP.
+  skills:
+    - Pentaho
+    - IBM Cognos
+    - Python
+    - LightGBM
+    - scikit-learn
+    - SHAP

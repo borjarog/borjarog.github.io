@@ -1,0 +1,35 @@
+// Styles for Experience section
+.resume-item-list {
+  margin: 0.75rem 0 0;
+  padding-left: 1.25rem;
+
+  li {
+    margin-bottom: 0.5rem;
+    line-height: 1.45;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .content-section .resume-item-title {
+    font-size: 1.25rem;
+    line-height: 1.3;
+  }
+
+  .edu-logo {
+    height: 32px;
+    margin-right: 6px;
+  }
+
+  .project-skills {
+    gap: 0.4em;
+  }
+
+  .project-skills .skill {
+    font-size: 0.8em;
+    padding: 0.15em 0.65em;
+  }
+}

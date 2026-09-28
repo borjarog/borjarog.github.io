@@ -112,9 +112,32 @@
             <h2>Experience</h2>
             {% for job in site.data.experience %}
             <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-              <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+              <h3 class="resume-item-title" itemprop="name">
+                {% if job.logo %}
+                  <img src="{{ job.logo }}" alt="{{ job.company }} logo" class="edu-logo"/>
+                {% endif %}
+                {{ job.company }}
+              </h3>
               <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-              <p class="resume-item-copy">{{ job.summary }}</p>
+              {% if job.location %}
+              <h5 class="resume-item-details award-title">{{ job.location }}</h5>
+              {% endif %}
+              {% if job.skills %}
+                <div class="project-skills">
+                  {% for skill in job.skills %}
+                    <span class="skill">{{ skill }}</span>
+                  {% endfor %}
+                </div>
+              {% endif %}
+              {% if job.bullets %}
+                <ul class="resume-item-list">
+                  {% for bullet in job.bullets %}
+                  <li><strong>{{ bullet.title }}:</strong> {{ bullet.text }}</li>
+                  {% endfor %}
+                </ul>
+              {% elsif job.summary %}
+                <p class="resume-item-copy">{{ job.summary }}</p>
+              {% endif %}
             </div>
             {% endfor %}
           </section>
